@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     siteName: 'Vanspire',
     images: [
       {
-        url: '/og-image.png',
+        url: '/ogimage.webp',
         width: 1200,
         height: 630,
         alt: 'Vanspire - Future-Focused Brand Group',
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     title: 'Vanspire | Future-Focused Brand Group',
     description:
       'Vanspire builds technology-driven ventures. Scalable systems, enterprise software, and cloud infrastructure - engineered for long-term growth.',
-    images: ['/og-image.png'],
+    images: ['/ogimage.webp'],
   },
 
   robots: {
